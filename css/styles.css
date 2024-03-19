@@ -912,3 +912,20 @@ a {
 .callout-signup {
   transform: translateY(5rem);
 }
+
+/* Stay Connected Section */
+.block--dark .callout {
+  background-color: var(--color-primary);
+  color: #fff;
+  border-radius: var(--border-radius);
+  padding: 2rem;
+  text-align: center;
+}
+
+.block--dark .callout a {
+  color: #fff;
+}
+
+.block--dark .callout a:hover {
+  color: var(--color-secondary);
+}
