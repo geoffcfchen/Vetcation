@@ -667,7 +667,7 @@ a {
 
 /* Navigation Bar */
 .nav {
-  background: #000;
+  background: #fff; /* White background */
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
