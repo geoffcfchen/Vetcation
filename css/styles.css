@@ -680,6 +680,11 @@ a {
   margin: 0;
 }
 
+.nav__menu {
+  display: flex;
+  align-items: center;
+}
+
 .nav__item {
   padding: 0.5rem 2rem;
   border-bottom: 1px solid #222;
